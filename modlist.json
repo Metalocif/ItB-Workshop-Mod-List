@@ -1,0 +1,20 @@
+{
+    "repositories": [
+        { "url": "https://github.com/Metalocif/Meta-s-Mods", },
+        { "url": "https://github.com/Lemonymous/ITB-LemonymousMods", },
+        { "url": "https://github.com/tos-x/ITB-tosx_mods", },
+        { "url": "https://github.com/Redacted-Rice/ITB-RedactedRiceMods", },
+        { "url": "https://github.com/GenericCorporatePilot2005/Generic-Tweaks", },
+        { "url": "https://github.com/GenericCorporatePilot2005/Techno-Vek-2", },
+        { "url": "https://github.com/GenericCorporatePilot2005/Gen-s-Palettes", },
+        { "url": "https://github.com/GenericCorporatePilot2005/Sentient-Weapons", },
+        { "url": "https://github.com/GenericCorporatePilot2005/V1-Pilot", },
+        { "url": "https://github.com/Parasign-0/Iron-Saints-ItB-Squad-", },
+        { "url": "https://github.com/Parasign-0/Electric-Shamans-ItB-Mod-", },
+        { "url": "https://github.com/Parasign-0/Plague-Bearers-ItB-Squad", },
+        { "url": "https://github.com/Hederarch/ItB-Pilot-Potluck", },
+        { "url": "https://github.com/Hederarch/ItB-Mod-Pilots-Trilogy", },
+        { "url": "https://github.com/Hederarch/ItB-Voidscrapers", },
+        { "url": "https://github.com/Hederarch/ItB-Mod-Squads", },
+    ]
+}
