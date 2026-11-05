@@ -1,10 +1,11 @@
 {
     "repositories": [
-        { "id": "MetaMods", "author": "Metalocif", "url": "https://github.com/Metalocif/Meta-s-Mods", "category": "Modpack", "description": "Adds squads, pilots, enemies, and gameplay modifiers." },
+        { "id": "MetaMods", "author": "Metalocif", "url": "https://github.com/Metalocif/Meta-s-Mods", "category": "Modpack", "description": "Adds squads, pilots, enemies, and gameplay modifiers.\nPlay as Pokemon, fight enemies with random buffs, and discover many new status effects." },
         { "id": "HiveWar", "author": "NotSoLoneWolf", "url": "https://github.com/Metalocif/Into-the-Breach-Hive-War", "category": "Enemies", "description": "Adds a recurring miniboss hunting time pods and a few weapons obtained as rewards for defeating it. Maintained by Metalocif." },
-        { "id": "LemonymousMods", "author": "Lemonymous", "url": "https://github.com/Lemonymous/ITB-LemonymousMods", "category": "Modpack", "description": "Adds an island, squads, pilots, enemies, and more." },
-        { "id": "tosx_mods", "author": "Tosx", "url": "https://github.com/tos-x/ITB-tosx_mods", "category": "Modpack", "description": "Adds three islands, squads, pilots, enemies, and more." },
+        { "id": "LemonymousMods", "author": "Lemonymous", "url": "https://github.com/Lemonymous/ITB-LemonymousMods", "category": "Modpack", "description": "Adds an island, squads, pilots, enemies, and more.\nThe foundational work that all modders draw from." },
+        { "id": "tosx_mods", "author": "Tosx", "url": "https://github.com/tos-x/ITB-tosx_mods", "category": "Modpack", "description": "Adds three islands, squads, pilots, enemies, and more.\nThe ultimate vanilla-like expansion." },
         { "id": "RedactedRiceMods", "author": "DasKeifer", "url": "https://github.com/Redacted-Rice/ITB-RedactedRiceMods", "category": "Modpack", "description": "Adds squads and greatly extends vanilla's level up skills." },
+        { "id": "Hotseat", "author": "Lemonymous", "url": "https://github.com/Lemonymous/ITB-Hotseat", "category": "Misc", "description": "Local multiplayer. One player controls mechs, the other controls Vek." },
         { "id": "Generic-Tweaks", "author": "Generic", "url": "https://github.com/GenericCorporatePilot2005/Generic-Tweaks", "category": "Misc", "description": "Various tweaks to both vanilla and modded content." },
         { "id": "Techno-Vek-2", "author": "Generic", "url": "https://github.com/GenericCorporatePilot2005/Techno-Vek-2", "category": "Squad", "description": "Play as a cyborg squad, using a Techno-Leaper, Techno-Centipede, and Techno-Psion. Features an unlockable cyborg mech." },
         { "id": "Generic-Palettes", "author": "Generic", "url": "https://github.com/GenericCorporatePilot2005/Gen-s-Palettes", "category": "Misc", "description": "Adds 30 more palettes to the game, for when your squad needs a new paintjob." },
@@ -34,6 +35,7 @@
         { "id": "Rock-Raiders", "author": "Alcom", "url": "https://github.com/Alcom1/Into-the-Breach_Squad_Rock-Raiders", "category": "Squad", "description": "Adds a squad based on LEGO Rock Raiders." },
         { "id": "MassDestruction", "author": "Alcom", "url": "https://github.com/Alcom1/Into-the-Breach_Squad_Mass-Destruction", "category": "Squad", "description": "Adds a squad that applies acid and fire with devastating results." },
         { "id": "Overwatchers_Dash", "author": "Shtevlogs", "url": "https://github.com/Shtevlogs/Overwatchers_Dash", "category": "Squad", "description": "Adds a squad themed around Overwatch characters." },
+        { "id": "LANCER", "author": "TheConvictedGenius", "url": "https://github.com/HueyPixelBoxes/LANCER", "category": "Squad", "description": "Adds four squads themed around Lancer mechs." },
         { "id": "Arsenal", "author": "WitheredPlate", "url": "https://github.com/WitheredPlate/ITB_Arsenal", "category": "Modpack", "description": "Adds content themed around multi-tile shoving." },
         { "id": "Impact", "author": "WitheredPlate", "url": "https://github.com/WitheredPlate/ITB_Impact", "category": "Modpack", "description": "Adds content themed around multihit weapons." },
         { "id": "WeaponsOfThePast", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-WotP", "category": "Squad", "description": "Adds a squad that uses modal weapons." },
