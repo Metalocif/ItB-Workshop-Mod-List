@@ -20,7 +20,7 @@
         { "id": "Hedera-Squads", "author": "Hedera", "url": "https://github.com/Hederarch/ItB-Mod-Squads", "category": "Squad", "description": "Adds four squads themed around the four islands." },
         { "id": "Vextra", "author": "Djinn/Tatu/NAH", "url": "https://github.com/Tatuzudo/Vextra", "category": "Enemies", "description": "Adds many enemies, psions, and bosses." },
         { "id": "Nautilus", "author": "Djinn/Tatu/NAH/Hedera", "url": "https://github.com/Peglaci/Nautilus", "category": "Island", "description": "Adds an underground island." },
-        { "id": "TargetAcquirers", "url": "https://github.com/TheBoardsCousin/ITB-TargetAcquirers", "category": "Squad", "description": "Adds a squad capable of selecting many targets at once for their weapons." },
+        { "id": "TargetAcquirers", "author": "TheBoardsCousin", "url": "https://github.com/TheBoardsCousin/ITB-TargetAcquirers", "category": "Squad", "description": "Adds a squad capable of selecting many targets at once for their weapons." },
         { "id": "Riptide", "author": "Xenesis", "url": "https://github.com/XenesisXenon/ITB-RiptideSquad", "category": "Squad", "description": "Adds a squad themed around the ocean, featuring powerful displacement." },
         { "id": "GravityBombers", "author": "Xenesis", "url": "https://github.com/XenesisXenon/ITB-GravityBombersSquad", "category": "Squad", "description": "Adds a squad that creates areas with powerful lingering effects." },
         { "id": "Invisible-Inc", "author": "NAH", "url": "https://github.com/NamesAreHard6600/Invisible-Inc", "category": "Pilot", "description": "Adds three pilots from the Invisible Inc. game." },
