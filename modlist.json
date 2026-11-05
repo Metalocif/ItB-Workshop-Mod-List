@@ -1,8 +1,8 @@
 {
     "repositories": [
-        { "id": "MetaMods", "url": "https://github.com/Metalocif/Meta-s-Mods" },
-        { "id": "LemonymousMods", "url": "https://github.com/Lemonymous/ITB-LemonymousMods" },
-        { "id": "tosx_mods", "url": "https://github.com/tos-x/ITB-tosx_mods" },
+        { "id": "MetaMods", "url": "https://github.com/Metalocif/Meta-s-Mods", "description": "A collection of mods by Metalocif, adding squads, pilots, enemies, and gameplay modifiers." },
+        { "id": "LemonymousMods", "url": "https://github.com/Lemonymous/ITB-LemonymousMods", "description": "A collection of mods by Lemonymous, adding an island, squads, pilots, enemies, and more." },
+        { "id": "tosx_mods", "url": "https://github.com/tos-x/ITB-tosx_mods", "description": "A collection of mods by Tosx, adding three islands, squads, pilots, enemies, and more." },
         { "id": "RedactedRiceMods", "url": "https://github.com/Redacted-Rice/ITB-RedactedRiceMods" },
         { "id": "Generic-Tweaks", "url": "https://github.com/GenericCorporatePilot2005/Generic-Tweaks" },
         { "id": "Techno-Vek-2", "url": "https://github.com/GenericCorporatePilot2005/Techno-Vek-2" },
