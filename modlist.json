@@ -29,5 +29,10 @@
         { "id": "SolarProminence", "author": "Flynn", "url": "https://github.com/dqflynn/ItB-SolarProminence", "category": "Squad", "description": "Adds a squad themed around stars."  },
         { "id": "Rock-Raiders", "author": "Alcom", "url": "https://github.com/Alcom1/Into-the-Breach_Squad_Rock-Raiders", "category": "Squad", "description": "Adds a squad based on LEGO Rock Raiders." },
         { "id": "Overwatchers_Dash", "author": "Shtevlogs", "url": "https://github.com/Shtevlogs/Overwatchers_Dash", "category": "Squad", "description": "Adds a squad themed around Overwatch characters." }
+        { "id": "WeaponsOfThePast", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-WotP", "category": "Squad", "description": "Adds a squad that uses modal weapons." }
+        { "id": "IronFleet", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-TheIronFleet", "category": "Squad", "description": "Adds a squad that uses a marking mechanic." }
+        { "id": "TerranMechs", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-TerranMechs", "category": "Squad", "description": "Adds a squad of Starcraft-inspired mechs." }
+        { "id": "TruelchCyborgs", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-CyborgSquad", "category": "Squad", "description": "Adds a cyborg squad, using a Techno-Scorpion, Techno-Bouncer, and Techno-Burrower." }
+        { "id": "MechDivers", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-MechDivers", "category": "Squad", "description": "Adds a squad of Helldivers-inspired mechs." }
     ]
 }
