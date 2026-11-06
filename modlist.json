@@ -43,6 +43,7 @@
         { "id": "IronFleet", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-TheIronFleet", "category": "Squad", "description": "Adds a squad that uses a marking mechanic." },
         { "id": "TerranMechs", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-TerranMechs", "category": "Squad", "description": "Adds a squad of Starcraft-inspired mechs." },
         { "id": "TruelchCyborgs", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-CyborgSquad", "category": "Squad", "description": "Adds a cyborg squad, using a Techno-Scorpion, Techno-Bouncer, and Techno-Burrower." },
-        { "id": "MechDivers", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-MechDivers", "category": "Squad", "description": "Adds a squad of Helldivers-inspired mechs." }
+        { "id": "MechDivers", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-MechDivers", "category": "Squad", "description": "Adds a squad of Helldivers-inspired mechs." },
+        { "id": "TatuSquads", "author": "Tatu", "url": "https://github.com/Tatuzudo/Tatu-Squads", "branch": "newest", "category": "Squad", "description": "Adds a bunch of interesting squads." }
     ]
 }
