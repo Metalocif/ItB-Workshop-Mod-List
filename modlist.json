@@ -1,6 +1,6 @@
 {
     "repositories": [
-        { "id": "MetaMods", "author": "Metalocif", "url": "https://github.com/Metalocif/Meta-s-Mods", "category": "Modpack", "description": "Adds squads, pilots, enemies, and gameplay modifiers.\nPlay as Pokemon, fight enemies with random buffs, and discover many new status effects." },
+        { "id": "Meta's Mods", "author": "Metalocif", "url": "https://github.com/Metalocif/Meta-s-Mods", "category": "Modpack", "description": "Adds squads, pilots, enemies, and gameplay modifiers.\nPlay as Pokemon, fight enemies with random buffs, and discover many new status effects." },
         { "id": "HiveWar", "author": "NotSoLoneWolf", "url": "https://github.com/Metalocif/Into-the-Breach-Hive-War", "category": "Enemies", "description": "Adds a recurring miniboss hunting time pods and a few weapons obtained as rewards for defeating it. Maintained by Metalocif." },
         { "id": "LemonymousMods", "author": "Lemonymous", "url": "https://github.com/Lemonymous/ITB-LemonymousMods", "category": "Modpack", "description": "Adds an island, squads, pilots, enemies, and more.\nThe foundational work that all modders draw from." },
         { "id": "tosx_mods", "author": "Tosx", "url": "https://github.com/tos-x/ITB-tosx_mods", "category": "Modpack", "description": "Adds three islands, squads, pilots, enemies, and more.\nThe ultimate vanilla-like expansion." },
