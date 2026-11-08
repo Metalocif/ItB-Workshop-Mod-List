@@ -44,7 +44,7 @@
         { "id": "ItB-TerranMechs", "name": "Terran Mechs", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-TerranMechs", "category": "Squad", "description": "Adds a squad of Starcraft-inspired mechs." },
         { "id": "ItB-CyborgSquad", "name": "Truelch's Cyborgs", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-CyborgSquad", "category": "Squad", "description": "Adds a cyborg squad, using a Techno-Scorpion, Techno-Bouncer, and Techno-Burrower." },
         { "id": "ItB-MechDivers", "name": "Hell Breachers", "author": "Truelch", "url": "https://github.com/FloranDev2/ItB-MechDivers", "category": "Squad", "description": "Adds a squad of Helldivers-inspired mechs." },
-        { "id": "Tatu-Squads", "name": "Tatu's Squads", "author": "Tatu", "url": "https://github.com/Tatuzudo/Tatu-Squads", "branch": "newest", "category": "Squad", "description": "Adds a bunch of interesting squads." },
-        { "id": "Candy-Land", "name": "Candy Land", "author": "Tatu", "url": "https://github.com/Tatuzudo/Candy-Land", "branch": "newest", "category": "Island", "description": "Adds a candy-themed island." }
+        { "id": "Tatu-Squads", "name": "Tatu's Squads", "author": "Tatu", "url": "https://github.com/Tatuzudo/Tatu-Squads", "category": "Squad", "description": "Adds a bunch of interesting squads." },
+        { "id": "Candy-Land", "name": "Candy Land", "author": "Tatu", "url": "https://github.com/Tatuzudo/Candy-Land", "category": "Island", "description": "Adds a candy-themed island." }
     ]
 }
